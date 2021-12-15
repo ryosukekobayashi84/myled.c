@@ -13,8 +13,8 @@ youtubeのurl
 
 ##使い方
 1. リポジトリをクローンしてローカルリポジトリの作成
-   $ git clone　ギットハブのurl
-   $ cd 最後の文
+   $ git clone https://github.com/ryosukekobayashi84/myled.c.git
+   $ cd myled.c
    
 2.コンパイル、インストール
 　$ make
